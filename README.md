@@ -4,7 +4,7 @@ A modern, all-in-one desktop app to watch, search and download videos, lives and
 
 ## Download
 
-**[⬇ Download Zeta Player](https://github.com/DevDuckFace/Zeta-Player/releases/download/zeta1.0/ZetaPlayerSetup.exe)**
+**[⬇ Download Zeta Player](https://github.com/DevDuckFace/Zeta-Player/releases/download/zetav1.1/ZetaPlayerSetup.exe)**
 
 Windows 64-bit. Run the installer and you're ready to go — everything the app needs is bundled inside.
 
