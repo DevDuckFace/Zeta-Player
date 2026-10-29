@@ -1,5 +1,5 @@
 # Zeta Player
-![image alt](https://github.com/DevDuckFace/Zeta-Player/blob/6ef88dbdd8edaa8c77bb3eb4b6a8e40baf4122ee/Screenshot_2.png)
+![image alt](https://github.com/user-attachments/assets/2399ca9e-e03f-4d84-b127-cea93f193208)
 A modern, all-in-one desktop app to watch, search and download videos, lives and playlists — with a clean interface and a built-in video player. No browser, no clutter, just one window.
 
 ## Download
